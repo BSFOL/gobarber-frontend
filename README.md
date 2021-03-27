@@ -1,5 +1,5 @@
 # gobarber-frontend
-React Project
+React Project with React Router, Context API and Hooks
 
 **Pré-requisito**
 
